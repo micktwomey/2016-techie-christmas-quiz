@@ -44,3 +44,12 @@ autoscale: true
 - 20:05 Round 4
 - 20:40 Announce Winners
 - 21:00 END QUIZ (head to pub - Generator Hostel)
+
+---
+
+# How It Works
+
+- Form teams
+- Write answers + team name on question sheets
+- Pass question sheets between teams to correct
+- We'll collect sheets and tot up scores
