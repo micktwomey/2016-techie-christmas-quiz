@@ -6,6 +6,7 @@ theme: Sketchnote
 
 # Who is Mr. Spocks father?
 ## Sarek
+![](sarek.gif)
 
 ---
 
@@ -41,6 +42,7 @@ theme: Sketchnote
 
 # The technologically advanced humanoid robot ASIMO is made by which car company?
 ## Honda
+![](asimo.gif)
 
 ---
 
@@ -66,6 +68,7 @@ theme: Sketchnote
 
 # Name the animals sounds combined to create Chewbacca’s voice 
 ## A bear, a walrus, a lion and a badger.
+![](chewbacca.gif)
 
 ---
 
@@ -81,6 +84,7 @@ theme: Sketchnote
 
 # Which company developed the IRIX computer operating system?
 ## SGI
+![](sgi.gif)
 
 ---
 
@@ -101,29 +105,43 @@ theme: Sketchnote
 
 # Who judged the “walk off” in the movie Zoolander?
 ## David Bowie
+![](bowie.gif)
 
 ---
 
 # What is Homer Simpson's brother's name?
 ## Herb Powell
+![](herb.gif)
 
 ---
 
-# What do the following devices do?
+# What does the Juicero do? How much does it cost?
+## It's a $700 DRM'd juicing machine
+![](juicero.jpg)
 
-1. Juicebro
-2. Smartduvet
-3. Huggies TweetPee
-4. CHiP
-5. Flosstime
-6. Peggy
-7. Molekule
-8. Vessyl
+---
+
+# What does the Smartduvet do?
+## Automatically makes your bed
+![](https://www.youtube.com/watch?v=2bmGqwoCSwU)
+
+---
+
+# What does the Flosstime do?
+## It's a smart floss dispenser
+![](https://www.youtube.com/watch?v=VeJX3jU0woQ)
+
+---
+
+# What does the Huggies TweetPee do?
+## Exactly what you feared
+![](tweetpee.jpg)
 
 ---
 
 # How Long did it take Mark Rittman to make a cup of tea with his new kettle?
 ## 11 hours
+![fit](smart-kettle.png)
 
 ---
 
@@ -132,64 +150,82 @@ theme: Sketchnote
 
 ---
 
+# Complete this line: "Never gonna give you up, "
+# " never gonna let you down"
+![](rick.gif)
+
+---
+
 ## Gordon Moore, Vinton Cerf and Robert Khan have previously received the US Presidential Medal of Freedom for their contributions to computing. Can you name the two recipients this year?
-### Margerat Hamilton & Grace Hopper
+### Margaret Hamilton & Grace Hopper
+![](mhh-apollo1.png.jpeg)
 
 ---
 
 # Why is Ben Affleck sad?
 
-During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far. Cavill then took the lead in answering the question while Affleck remained in silence with a noticeably sad look on his face.
+### During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far. Cavill then took the lead in answering the question while Affleck remained in silence with a noticeably sad look on his face.
+![](sadben.gif)
 
 ---
 
 # What do Batman the original TV series and Star Trek have in common this year?
 ## Both celebrated their 50th anniversary this year
+![](batman.gif)
 
 ---
 
 ## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
 ### It’s hexagon shape
+![fit](saturn.jpg)
 
 ---
 
 # What does PPAP stand for?
 ## Pen-Pineapple-Apple-Pen
+![](https://www.youtube.com/watch?v=0E00Zuayv9Q)
 
 ---
 
 # In July of this year the final what was made by Japanese manufacturer Funai?
 ## Video cassette recorder
+![](video.gif)
 
 ---
 
 # What is #Mannequinchallenge?
 ## The Mannequin Challenge is a viral Internet video trend where people remain frozen in action like mannequins while a moving camera films them.
+![](https://www.youtube.com/watch?v=PxUzHrqeCxY)
 
 ---
 
 # Who does Millie Bobby Brown play in the TV series Stranger Things?
 ## Eleven
+![](eleven.gif)
 
 ---
 
 # What was the highest grossing film of 2016 (so far)
 ## Captain America: Civil War
+![](civilwar.gif)
 
 ---
 
 # What was invented in a New Jersey diner by Rob Pike and Ken Thompson?
-## UTF-8 on a placemat (https://twitter.com/ajstarks/status/721290688533499904)
+## UTF-8 on a placemat
+![](utf8_diner.jpg)
 
 ---
 
 # What game was Norway’s Prime Minister, Erna Solberg, caught playing in parliament?
 ## Pokémon GO
+![](norway_pm.jpg)
 
 ---
 
 # Samsung recently pushed out an unusual software update for one of their phones, what does it do?
-## Update for the Galaxy Note 7, completely disabling the phone
+## Update for the 🔥🚨Galaxy Note 7🚨🔥, completely disabling the phone
+![](note7.gif)
 
 ---
 
@@ -203,9 +239,7 @@ During an interview with Affleck and Cavill for Batman vs Superman, the intervie
 
 ---
 
-# Who Said this?
-## "The best way to predict the future is to invent it"
-
+# Who Said this: "The best way to predict the future is to invent it"
 
 ## Alan Kay
 

@@ -1,21 +1,46 @@
 theme: Sketchnote
-autoscale: true
 
-# Round 4: IoT Round!
-
----
-
-# What do the following devices do?
-
-1. Juicebro
-2. Smartduvet
-3. Huggies TweetPee
-4. CHiP
-5. Flosstime
-6. Peggy
-7. Molekule
-8. Vessyl
+# Round 4
 
 ---
 
-# How Long did it take Mark Rittman to make a cup of tea with his new kettle?
+# What do Batman the original TV series and Star Trek have in common this year?
+
+---
+
+## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
+
+---
+
+# What does PPAP stand for?
+
+---
+
+# In July of this year the final what was made by Japanese manufacturer Funai?
+
+---
+
+# What is #Mannequinchallenge?
+
+---
+
+# Who does Millie Bobby Brown play in the TV series Stranger Things?
+
+---
+
+# What was the highest grossing film of 2016 (so far)
+
+---
+
+# What was invented in a New Jersey diner by Rob Pike and Ken Thompson?
+
+---
+
+# What game was Norway’s Prime Minister, Erna Solberg, caught playing in parliament?
+
+---
+
+# Samsung recently pushed out an unusual software update for one of their phones, what does it do?
+
+
+
