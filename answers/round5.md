@@ -4,15 +4,16 @@ theme: Sketchnote, 4
 
 ---
 
-# In the game Overwatch, what is the characer Mei’s blaster do?
-
-## Mei’s blaster unleashes a concentrated, short-range stream of frost that damages, slows, and ultimately freezes enemies in place.
-
----
-
 # Who won the 2016 Nobel Prize for Literature?
 
 ## Bob Dylan
+
+---
+
+# What does the Flosstime do?
+
+## It's a smart floss dispenser
+![](https://www.youtube.com/watch?v=VeJX3jU0woQ)
 
 ---
 
@@ -28,9 +29,9 @@ theme: Sketchnote, 4
 
 ---
 
-# What's next? 9162 – 1629 – 6291 – XXXX
+# What is notable about the Mirai botnet attack on 21st October?
 
-## 2916 (From No Man's Sky)
+## The scale and the large number of IoT devices used, mostly web cameras
 
 ---
 
@@ -43,6 +44,12 @@ theme: Sketchnote, 4
 # How many Raspberry Pis have been sold as of September 2016?
 
 ## 10 million
+
+---
+
+## The metre was originally defined as what fraction of the distance between the north pole and the equator?
+
+### One ten millionth of the distance between the north pole and equator.
 
 
 

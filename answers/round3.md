@@ -11,31 +11,23 @@ theme: Sketchnote, 4
 
 ---
 
-# What does the Juicero do? How much does it cost?
+# True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.
 
-## It's a $700 DRM'd juicing machine
-![](juicero.jpg)
-
----
-
-# What does the Smartduvet do?
-
-## Automatically makes your bed
-![](https://www.youtube.com/watch?v=2bmGqwoCSwU)
+## True
 
 ---
 
-# What does the Flosstime do?
-
-## It's a smart floss dispenser
-![](https://www.youtube.com/watch?v=VeJX3jU0woQ)
-
----
-
-# What does the Huggies TweetPee do?
+# What does the TweetPee do?
 
 ## Exactly what you feared
 ![](tweetpee.jpg)
+
+---
+
+# Who is Mr. Spocks father?
+
+## Sarek
+![](sarek.gif)
 
 ---
 
@@ -46,16 +38,16 @@ theme: Sketchnote, 4
 
 ---
 
-# What is notable about the Mirai botnet attack on 21st October?
-
-## The scale and the large number of IoT devices used, mostly web cameras
-
----
-
 # Complete this line: "Never gonna give you up, "
 
 # " never gonna let you down"
 ![](rick.gif)
+
+---
+
+# What science fiction writer wrote the three laws of robotics?
+
+## Isaac Asimov
 
 ---
 
@@ -70,6 +62,13 @@ theme: Sketchnote, 4
 
 ### During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far. Cavill then took the lead in answering the question while Affleck remained in silence with a noticeably sad look on his face.
 ![](sadben.gif)
+
+---
+
+## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
+
+### It’s hexagon shape
+![fit](saturn.jpg)
 
 
 

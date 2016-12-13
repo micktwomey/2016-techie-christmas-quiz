@@ -8,19 +8,15 @@ theme: Sketchnote
 
 ---
 
-# What does the Juicero do? How much does it cost?
+# True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.
 
 ---
 
-# What does the Smartduvet do?
+# What does the TweetPee do?
 
 ---
 
-# What does the Flosstime do?
-
----
-
-# What does the Huggies TweetPee do?
+# Who is Mr. Spocks father?
 
 ---
 
@@ -28,11 +24,11 @@ theme: Sketchnote
 
 ---
 
-# What is notable about the Mirai botnet attack on 21st October?
+# Complete this line: "Never gonna give you up, "
 
 ---
 
-# Complete this line: "Never gonna give you up, "
+# What science fiction writer wrote the three laws of robotics?
 
 ---
 
@@ -41,6 +37,10 @@ theme: Sketchnote
 ---
 
 # Why is Ben Affleck sad?
+
+---
+
+## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
 
 
 

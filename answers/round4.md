@@ -4,17 +4,9 @@ theme: Sketchnote, 4
 
 ---
 
-# What do Batman the original TV series and Star Trek have in common this year?
+# Name the second longest river in Ireland?
 
-## Both celebrated their 50th anniversary this year
-![](batman.gif)
-
----
-
-## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
-
-### It’s hexagon shape
-![fit](saturn.jpg)
+## Barrow
 
 ---
 
@@ -71,6 +63,12 @@ theme: Sketchnote, 4
 
 ## Update for the 🔥🚨Galaxy Note 7🚨🔥, completely disabling the phone
 ![](note7.gif)
+
+---
+
+# In the game Overwatch, what is the characer Mei’s blaster do?
+
+## Mei’s blaster unleashes a concentrated, short-range stream of frost that damages, slows, and ultimately freezes enemies in place.
 
 
 

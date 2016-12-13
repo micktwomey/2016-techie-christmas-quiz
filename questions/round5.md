@@ -4,11 +4,11 @@ theme: Sketchnote
 
 ---
 
-# In the game Overwatch, what is the characer Mei’s blaster do?
+# Who won the 2016 Nobel Prize for Literature?
 
 ---
 
-# Who won the 2016 Nobel Prize for Literature?
+# What does the Flosstime do?
 
 ---
 
@@ -20,7 +20,7 @@ theme: Sketchnote
 
 ---
 
-# What's next? 9162 – 1629 – 6291 – XXXX
+# What is notable about the Mirai botnet attack on 21st October?
 
 ---
 
@@ -29,6 +29,10 @@ theme: Sketchnote
 ---
 
 # How many Raspberry Pis have been sold as of September 2016?
+
+---
+
+## The metre was originally defined as what fraction of the distance between the north pole and the equator?
 
 
 

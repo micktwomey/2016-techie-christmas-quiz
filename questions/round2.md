@@ -4,6 +4,14 @@ theme: Sketchnote
 
 ---
 
+# What does WaSP stand for?
+
+---
+
+# What does the Juicero do? How much does it cost?
+
+---
+
 # What is the worst case complexity of Timsort in Big O Notation? Who is it Named After?
 
 ---
@@ -12,11 +20,11 @@ theme: Sketchnote
 
 ---
 
-# Name the animals sounds combined to create Chewbacca’s voice
+## Name the utility that automatically builds the executable and libraries from source code which was originally created by Stuart Feldman in 1997 at Bell Labs?
 
 ---
 
-## Name the utility that automatically builds the executable and libraries from source code which was originally created by Stuart Feldman in 1997 at Bell Labs?
+# Which company developed the IRIX computer operating system?
 
 ---
 
@@ -24,7 +32,7 @@ theme: Sketchnote
 
 ---
 
-# Which company developed the IRIX computer operating system?
+# What's next? 9162 – 1629 – 6291 – XXXX
 
 ---
 
@@ -33,14 +41,6 @@ theme: Sketchnote
 ---
 
 # A crystal anniversary celebrates how many years?
-
----
-
-# Name the second longest river in Ireland?
-
----
-
-# Who judged the “walk off” in the movie Zoolander?
 
 
 

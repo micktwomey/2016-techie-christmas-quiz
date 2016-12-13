@@ -4,9 +4,14 @@ theme: Sketchnote
 
 ---
 
-# Who is Mr. Spocks father?
-## Sarek
-![](sarek.gif)
+# This penguin character is the mascot of Linux Kernel. Name this penguin? 
+## Penguin
+
+---
+
+# What does the Smartduvet do?
+## Automatically makes your bed
+![](https://www.youtube.com/watch?v=2bmGqwoCSwU)
 
 ---
 
@@ -20,13 +25,9 @@ theme: Sketchnote
 
 ---
 
-# What science fiction writer wrote the three laws of robotics?
-## Isaac Asimov
-
----
-
-# True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.
-## True
+# What do the TV series Batman and Star Trek have in common in 2016?
+## Both celebrated their 50th anniversary
+![](batman.gif)
 
 ---
 
@@ -35,8 +36,20 @@ theme: Sketchnote
 
 ---
 
+# Who judged the “walk off” in the movie Zoolander?
+## David Bowie
+![](bowie.gif)
+
+---
+
 # IBM is a well known computer and information technology company, what does IBM stand for?
 ## International Business Machines
+
+---
+
+# Name the animals sounds combined to create Chewbacca’s voice 
+## A bear, a walrus, a lion and a badger.
+![](chewbacca.gif)
 
 ---
 
@@ -44,15 +57,17 @@ theme: Sketchnote
 ## Honda
 ![](asimo.gif)
 
----
-
-# This penguin character is the mascot of Linux Kernel. Name this penguin? 
-## Penguin
 
 ---
 
 # What does WaSP stand for?
 ## The Web Standards Project 
+
+---
+
+# What does the Juicero do? How much does it cost?
+## It's a $700 DRM'd juicing machine
+![](juicero.jpg)
 
 ---
 
@@ -66,14 +81,14 @@ theme: Sketchnote
 
 ---
 
-# Name the animals sounds combined to create Chewbacca’s voice 
-## A bear, a walrus, a lion and a badger.
-![](chewbacca.gif)
+## Name the utility that automatically builds the executable and libraries from source code which was originally created by Stuart Feldman in 1997 at Bell Labs?
+### Make
 
 ---
 
-## Name the utility that automatically builds the executable and libraries from source code which was originally created by Stuart Feldman in 1997 at Bell Labs?
-### Make
+# Which company developed the IRIX computer operating system?
+## SGI
+![](sgi.gif)
 
 ---
 
@@ -82,9 +97,8 @@ theme: Sketchnote
 
 ---
 
-# Which company developed the IRIX computer operating system?
-## SGI
-![](sgi.gif)
+# What's next? 9162 – 1629 – 6291 – XXXX
+## 2916
 
 ---
 
@@ -99,44 +113,27 @@ theme: Sketchnote
 
 ---
 
-# Name the second longest river in Ireland?
-## Barrow
-
----
-
-# Who judged the “walk off” in the movie Zoolander?
-## David Bowie
-![](bowie.gif)
-
----
-
 # What is Homer Simpson's brother's name?
 ## Herb Powell
 ![](herb.gif)
 
----
-
-# What does the Juicero do? How much does it cost?
-## It's a $700 DRM'd juicing machine
-![](juicero.jpg)
 
 ---
 
-# What does the Smartduvet do?
-## Automatically makes your bed
-![](https://www.youtube.com/watch?v=2bmGqwoCSwU)
+# True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.
+## True
 
 ---
 
-# What does the Flosstime do?
-## It's a smart floss dispenser
-![](https://www.youtube.com/watch?v=VeJX3jU0woQ)
-
----
-
-# What does the Huggies TweetPee do?
+# What does the TweetPee do?
 ## Exactly what you feared
 ![](tweetpee.jpg)
+
+---
+
+# Who is Mr. Spocks father?
+## Sarek
+![](sarek.gif)
 
 ---
 
@@ -146,14 +143,14 @@ theme: Sketchnote
 
 ---
 
-# What is notable about the Mirai botnet attack on 21st October?
-## The scale and the large number of IoT devices used, mostly web cameras
-
----
-
 # Complete this line: "Never gonna give you up, "
 # " never gonna let you down"
 ![](rick.gif)
+
+---
+
+# What science fiction writer wrote the three laws of robotics?
+## Isaac Asimov
 
 ---
 
@@ -170,15 +167,14 @@ theme: Sketchnote
 
 ---
 
-# What do Batman the original TV series and Star Trek have in common this year?
-## Both celebrated their 50th anniversary this year
-![](batman.gif)
-
----
-
 ## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
 ### It’s hexagon shape
 ![fit](saturn.jpg)
+
+---
+
+# Name the second longest river in Ireland?
+## Barrow
 
 ---
 
@@ -240,6 +236,13 @@ theme: Sketchnote
 
 ---
 
+# What does the Flosstime do?
+## It's a smart floss dispenser
+![](https://www.youtube.com/watch?v=VeJX3jU0woQ)
+
+
+---
+
 # Who Said this: "The best way to predict the future is to invent it"
 
 ## Alan Kay
@@ -251,8 +254,8 @@ theme: Sketchnote
 
 ---
 
-# What's next? 9162 – 1629 – 6291 – XXXX
-## 2916 (From No Man's Sky)
+# What is notable about the Mirai botnet attack on 21st October?
+## The scale and the large number of IoT devices used, mostly web cameras
 
 ---
 
@@ -267,3 +270,7 @@ theme: Sketchnote
 
 ## The metre was originally defined as what fraction of the distance between the north pole and the equator?
 ### One ten millionth of the distance between the north pole and equator.
+
+---
+
+# Fin

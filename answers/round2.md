@@ -4,6 +4,19 @@ theme: Sketchnote, 4
 
 ---
 
+# What does WaSP stand for?
+
+## The Web Standards Project
+
+---
+
+# What does the Juicero do? How much does it cost?
+
+## It's a $700 DRM'd juicing machine
+![](juicero.jpg)
+
+---
+
 # What is the worst case complexity of Timsort in Big O Notation? Who is it Named After?
 
 ## O(n log n) & Tim Peters
@@ -16,16 +29,16 @@ theme: Sketchnote, 4
 
 ---
 
-# Name the animals sounds combined to create Chewbacca’s voice
-
-## A bear, a walrus, a lion and a badger.
-![](chewbacca.gif)
-
----
-
 ## Name the utility that automatically builds the executable and libraries from source code which was originally created by Stuart Feldman in 1997 at Bell Labs?
 
 ### Make
+
+---
+
+# Which company developed the IRIX computer operating system?
+
+## SGI
+![](sgi.gif)
 
 ---
 
@@ -35,10 +48,9 @@ theme: Sketchnote, 4
 
 ---
 
-# Which company developed the IRIX computer operating system?
+# What's next? 9162 – 1629 – 6291 – XXXX
 
-## SGI
-![](sgi.gif)
+## 2916
 
 ---
 
@@ -52,19 +64,6 @@ theme: Sketchnote, 4
 # A crystal anniversary celebrates how many years?
 
 ## 15
-
----
-
-# Name the second longest river in Ireland?
-
-## Barrow
-
----
-
-# Who judged the “walk off” in the movie Zoolander?
-
-## David Bowie
-![](bowie.gif)
 
 
 

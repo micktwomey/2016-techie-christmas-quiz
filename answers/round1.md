@@ -4,10 +4,16 @@ theme: Sketchnote, 4
 
 ---
 
-# Who is Mr. Spocks father?
+# This penguin character is the mascot of Linux Kernel. Name this penguin?
 
-## Sarek
-![](sarek.gif)
+## Penguin
+
+---
+
+# What does the Smartduvet do?
+
+## Automatically makes your bed
+![](https://www.youtube.com/watch?v=2bmGqwoCSwU)
 
 ---
 
@@ -23,15 +29,10 @@ theme: Sketchnote, 4
 
 ---
 
-# What science fiction writer wrote the three laws of robotics?
+# What do the TV series Batman and Star Trek have in common in 2016?
 
-## Isaac Asimov
-
----
-
-# True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.
-
-## True
+## Both celebrated their 50th anniversary
+![](batman.gif)
 
 ---
 
@@ -41,9 +42,23 @@ theme: Sketchnote, 4
 
 ---
 
+# Who judged the “walk off” in the movie Zoolander?
+
+## David Bowie
+![](bowie.gif)
+
+---
+
 # IBM is a well known computer and information technology company, what does IBM stand for?
 
 ## International Business Machines
+
+---
+
+# Name the animals sounds combined to create Chewbacca’s voice
+
+## A bear, a walrus, a lion and a badger.
+![](chewbacca.gif)
 
 ---
 
@@ -51,18 +66,6 @@ theme: Sketchnote, 4
 
 ## Honda
 ![](asimo.gif)
-
----
-
-# This penguin character is the mascot of Linux Kernel. Name this penguin?
-
-## Penguin
-
----
-
-# What does WaSP stand for?
-
-## The Web Standards Project
 
 
 
