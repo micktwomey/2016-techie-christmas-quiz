@@ -16,11 +16,11 @@ theme: Sketchnote
 
 ---
 
-# Who is Mr. Spocks father?
+# Who is Mr. Spock's father?
 
 ---
 
-# How Long did it take Mark Rittman to make a cup of tea with his new kettle?
+# How Long did it take Mark Rittman to make a cup of tea with his new IoT kettle?
 
 ---
 

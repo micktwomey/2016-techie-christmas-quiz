@@ -5,7 +5,8 @@ theme: Sketchnote
 ---
 
 # This penguin character is the mascot of Linux Kernel. Name this penguin? 
-## Penguin
+## Tux
+![fit](Tux.png)
 
 ---
 
@@ -42,8 +43,8 @@ theme: Sketchnote
 
 ---
 
-# IBM is a well known computer and information technology company, what does IBM stand for?
-## International Business Machines
+# What does IBM stand for?
+## International Business Machines or Itsy Bitsy Machines
 
 ---
 
@@ -131,13 +132,13 @@ theme: Sketchnote
 
 ---
 
-# Who is Mr. Spocks father?
+# Who is Mr. Spock's father?
 ## Sarek
 ![](sarek.gif)
 
 ---
 
-# How Long did it take Mark Rittman to make a cup of tea with his new kettle?
+# How Long did it take Mark Rittman to make a cup of tea with his new IoT kettle?
 ## 11 hours
 ![fit](smart-kettle.png)
 
@@ -162,7 +163,7 @@ theme: Sketchnote
 
 # Why is Ben Affleck sad?
 
-### During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far. Cavill then took the lead in answering the question while Affleck remained in silence with a noticeably sad look on his face.
+### During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far.
 ![](sadben.gif)
 
 ---
@@ -180,7 +181,7 @@ theme: Sketchnote
 
 # What does PPAP stand for?
 ## Pen-Pineapple-Apple-Pen
-![](https://www.youtube.com/watch?v=0E00Zuayv9Q)
+![](ppap.gif)
 
 ---
 
@@ -221,13 +222,14 @@ theme: Sketchnote
 ---
 
 # Samsung recently pushed out an unusual software update for one of their phones, what does it do?
-## Update for the 🔥🚨Galaxy Note 7🚨🔥, completely disabling the phone
+## Update for the Galaxy Note 7, completely disabling the phone
 ![](note7.gif)
 
 ---
 
 # In the game Overwatch, what is the characer Mei’s blaster do?
 ## Mei’s blaster unleashes a concentrated, short-range stream of frost that damages, slows, and ultimately freezes enemies in place.
+![](intro-video.mp4)
 
 ---
 
@@ -268,9 +270,20 @@ theme: Sketchnote
 
 ---
 
+# Countdown
+![](https://www.youtube.com/watch?v=e32kaa9TzeE)
+
+---
+
 ## The metre was originally defined as what fraction of the distance between the north pole and the equator?
 ### One ten millionth of the distance between the north pole and equator.
 
 ---
+
+# Countdown
+![](https://www.youtube.com/watch?v=e32kaa9TzeE)
+
+---
+
 
 # Fin

@@ -32,7 +32,7 @@ theme: Sketchnote
 
 ---
 
-# IBM is a well known computer and information technology company, what does IBM stand for?
+# What does IBM stand for?
 
 ---
 

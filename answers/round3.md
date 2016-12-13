@@ -24,14 +24,14 @@ theme: Sketchnote, 4
 
 ---
 
-# Who is Mr. Spocks father?
+# Who is Mr. Spock's father?
 
 ## Sarek
 ![](sarek.gif)
 
 ---
 
-# How Long did it take Mark Rittman to make a cup of tea with his new kettle?
+# How Long did it take Mark Rittman to make a cup of tea with his new IoT kettle?
 
 ## 11 hours
 ![fit](smart-kettle.png)
@@ -60,7 +60,7 @@ theme: Sketchnote, 4
 
 # Why is Ben Affleck sad?
 
-### During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far. Cavill then took the lead in answering the question while Affleck remained in silence with a noticeably sad look on his face.
+### During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far.
 ![](sadben.gif)
 
 ---

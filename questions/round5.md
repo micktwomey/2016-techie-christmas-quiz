@@ -32,7 +32,17 @@ theme: Sketchnote
 
 ---
 
+# Countdown
+![](https://www.youtube.com/watch?v=e32kaa9TzeE)
+
+---
+
 ## The metre was originally defined as what fraction of the distance between the north pole and the equator?
+
+---
+
+# Countdown
+![](https://www.youtube.com/watch?v=e32kaa9TzeE)
 
 
 

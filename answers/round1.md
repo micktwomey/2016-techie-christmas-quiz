@@ -6,7 +6,8 @@ theme: Sketchnote, 4
 
 # This penguin character is the mascot of Linux Kernel. Name this penguin?
 
-## Penguin
+## Tux
+![fit](Tux.png)
 
 ---
 
@@ -49,9 +50,9 @@ theme: Sketchnote, 4
 
 ---
 
-# IBM is a well known computer and information technology company, what does IBM stand for?
+# What does IBM stand for?
 
-## International Business Machines
+## International Business Machines or Itsy Bitsy Machines
 
 ---
 

@@ -13,7 +13,7 @@ theme: Sketchnote, 4
 # What does PPAP stand for?
 
 ## Pen-Pineapple-Apple-Pen
-![](https://www.youtube.com/watch?v=0E00Zuayv9Q)
+![](ppap.gif)
 
 ---
 
@@ -61,7 +61,7 @@ theme: Sketchnote, 4
 
 # Samsung recently pushed out an unusual software update for one of their phones, what does it do?
 
-## Update for the 🔥🚨Galaxy Note 7🚨🔥, completely disabling the phone
+## Update for the Galaxy Note 7, completely disabling the phone
 ![](note7.gif)
 
 ---
@@ -69,6 +69,7 @@ theme: Sketchnote, 4
 # In the game Overwatch, what is the characer Mei’s blaster do?
 
 ## Mei’s blaster unleashes a concentrated, short-range stream of frost that damages, slows, and ultimately freezes enemies in place.
+![](intro-video.mp4)
 
 
 
