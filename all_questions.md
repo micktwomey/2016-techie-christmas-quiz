@@ -90,6 +90,7 @@ theme: Sketchnote
 
 # When was Nintendo established and what did they make?
 ## 1889 & Playing cards
+![](marioworld.gif)
 
 ---
 
