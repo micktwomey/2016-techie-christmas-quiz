@@ -33,37 +33,11 @@ theme: Sketchnote, 4
 
 ## The scale and the large number of IoT devices used, mostly web cameras
 
----
-
-# Tie Breakers
-
 
 
 ---
 
-# How many Raspberry Pis have been sold as of September 2016?
+# End of Answers!
 
-## 10 million
-
----
-
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
-
-
-
----
-
-## The metre was originally defined as what fraction of the distance between the north pole and the equator?
-
-### One ten millionth of the distance between the north pole and equator.
-
----
-
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
-
-
-
-
+## Pass the Answer Sheets to the Quizmasters
 

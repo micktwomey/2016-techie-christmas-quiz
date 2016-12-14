@@ -1,24 +1,32 @@
-theme: Sketchnote
+theme: Sketchnote, 4
 
-# Round 6
+# Round 6 Answers
 
 ---
 
 # Tie Breakers
 
+
+
 ---
 
 # How many Raspberry Pis have been sold as of September 2016?
+
+## 10 million
 
 ---
 
 # Countdown
 ![](https://www.youtube.com/watch?v=e32kaa9TzeE)
+
+
 
 ---
 
 ## The metre was originally defined as what fraction of the distance between the north pole and the equator?
 
+### One ten millionth of the distance between the north pole and equator.
+
 ---
 
 # Countdown
@@ -26,9 +34,11 @@ theme: Sketchnote
 
 
 
+
+
 ---
 
-# End of Round!
+# End of Answers!
 
-## Pass Answer Sheets to the Next Team
+## Pass the Answer Sheets to the Quizmasters
 

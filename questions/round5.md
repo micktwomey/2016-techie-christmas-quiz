@@ -22,27 +22,11 @@ theme: Sketchnote
 
 # What is notable about the Mirai botnet attack on 21st October?
 
----
 
-# Tie Breakers
-
----
-
-# How many Raspberry Pis have been sold as of September 2016?
 
 ---
 
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
+# End of Round!
 
----
-
-## The metre was originally defined as what fraction of the distance between the north pole and the equator?
-
----
-
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
-
-
+## Pass Answer Sheets to the Next Team
 

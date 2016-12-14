@@ -16,6 +16,12 @@ ROUND_TEMPLATE = """theme: Sketchnote
 
 {questions}
 
+---
+
+# End of Round!
+
+## Pass Answer Sheets to the Next Team
+
 """
 
 ANSWER_TEMPLATE="""{qa.question}
@@ -31,6 +37,12 @@ QUESTION_AND_ANSWER_TEMPLATE="""theme: Sketchnote, 4
 ---
 
 {answers}
+
+---
+
+# End of Answers!
+
+## Pass the Answer Sheets to the Quizmasters
 
 """
 
@@ -64,7 +76,7 @@ def parse(buffer):
 def split_into_rounds(questions_and_answers, round_length=10):
     round = []
     for i, question_and_answer in enumerate(questions_and_answers):
-        if i % round_length == 0 and round:
+        if (i % round_length == 0 and round) or question_and_answer.question.strip() == '# Tie Breakers':
             yield round
             round = []
         round.append(question_and_answer)
